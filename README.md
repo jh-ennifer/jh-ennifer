@@ -8,7 +8,7 @@
 
 ### Sobre mim
 <p> 
-  Tenho 21 anos e tive meu primeiro contato com programação aos 15, mas me encantei aos 17, desde então tenho procurado estudar e aprender mais sobre esse universo amplo e extraordinário. Meu foco é aprender mais sobre desenvolvimento web, especialmente front-end, mas estou apta para novas descobertas e experiências.
+  Tenho 22 anos e tive meu primeiro contato com programação aos 15, mas me encantei aos 17, desde então tenho procurado estudar e aprender mais sobre esse universo amplo e extraordinário. Meu foco é aprender mais sobre desenvolvimento web, especialmente front-end, mas estou apta para novas descobertas e experiências.
 </p>
 
 <hr> 
