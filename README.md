@@ -1,6 +1,5 @@
 # Oii, sou a Jhennifer 😁
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jh-ennifer&show_icons=true&theme=onedark&include_all_commits=true&count"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh-ennifer&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
